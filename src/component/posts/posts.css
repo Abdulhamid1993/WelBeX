@@ -1,0 +1,20 @@
+.posts{
+    padding: 25px;
+}
+.post{
+    margin: 25px 0;
+    background-color: #aad8d3;
+    padding: 35px;
+    border-radius: 15px; 
+}
+.author{
+    border-top: 1px solid #000;
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 25px;
+    margin-top: 25px;
+}
+.cat{
+    font-style: italic;
+    font-size: 14px;
+}
